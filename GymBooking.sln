@@ -3,21 +3,28 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GymBooking", "GymBooking.csproj", "{0550C0EE-752D-4A14-8D40-7EDA0DB6C391}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Source", "1.Source", "{499DFB0E-CF3D-4AA3-8188-F6C347E0F2F3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Code", "1.Code", "{D58B6A04-1E57-4FF5-B847-5041CB5D486A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.UIL", "1.UIL", "{A0780F2C-EF08-4A39-8FFE-C8F199B69620}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.BLL", "2.BLL", "{01439E27-8D4E-4413-A20B-EDDE1FF25288}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.DAL", "3.DAL", "{7B27018E-5253-4E36-B26C-7FB61A3FFBD1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.Service", "4.Service", "{FA505131-4F66-4F89-91D9-D66D77FDFDD1}"
 EndProject
 Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0550C0EE-752D-4A14-8D40-7EDA0DB6C391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0550C0EE-752D-4A14-8D40-7EDA0DB6C391}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0550C0EE-752D-4A14-8D40-7EDA0DB6C391}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0550C0EE-752D-4A14-8D40-7EDA0DB6C391}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D58B6A04-1E57-4FF5-B847-5041CB5D486A} = {499DFB0E-CF3D-4AA3-8188-F6C347E0F2F3}
+		{A0780F2C-EF08-4A39-8FFE-C8F199B69620} = {D58B6A04-1E57-4FF5-B847-5041CB5D486A}
+		{01439E27-8D4E-4413-A20B-EDDE1FF25288} = {D58B6A04-1E57-4FF5-B847-5041CB5D486A}
+		{7B27018E-5253-4E36-B26C-7FB61A3FFBD1} = {D58B6A04-1E57-4FF5-B847-5041CB5D486A}
+		{FA505131-4F66-4F89-91D9-D66D77FDFDD1} = {D58B6A04-1E57-4FF5-B847-5041CB5D486A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5D9CC07F-33D7-4D73-B373-9345980E57CD}
