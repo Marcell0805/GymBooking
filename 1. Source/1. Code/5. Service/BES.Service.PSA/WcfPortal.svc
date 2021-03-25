@@ -1,0 +1,4 @@
+<%@ ServiceHost 
+    Language="C#" 
+    Debug="true" 
+    Service="Csla.Server.Hosts.WcfPortal, Csla, Version=4.6.400.0, Culture=neutral, PublicKeyToken=93be5fdc093e4c30, processorArchitecture=MSIL" %>
