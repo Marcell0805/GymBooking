@@ -4,14 +4,14 @@
     "C:\\Users\\msvn\\source\\repos\\GymBooking\\1. Source\\1. Code\\3. DAL\\GymBooking.DAL\\GymBooking.Data\\GymBooking.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\msvn\\source\\repos\\GymBooking\\1. Source\\1. Code\\3. DAL\\GymBooking.DAL\\GymBooking.Data\\GymBooking.Data.csproj": {
+    "C:\\Users\\msvn\\source\\repos\\GymBooking\\1. Source\\1. Code\\3. DAL\\GymBooking.DAL\\GymBooking.DAL\\GymBooking.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\msvn\\source\\repos\\GymBooking\\1. Source\\1. Code\\3. DAL\\GymBooking.DAL\\GymBooking.Data\\GymBooking.Data.csproj",
-        "projectName": "GymBooking.Data",
-        "projectPath": "C:\\Users\\msvn\\source\\repos\\GymBooking\\1. Source\\1. Code\\3. DAL\\GymBooking.DAL\\GymBooking.Data\\GymBooking.Data.csproj",
+        "projectUniqueName": "C:\\Users\\msvn\\source\\repos\\GymBooking\\1. Source\\1. Code\\3. DAL\\GymBooking.DAL\\GymBooking.DAL\\GymBooking.DAL.csproj",
+        "projectName": "GymBooking.DAL",
+        "projectPath": "C:\\Users\\msvn\\source\\repos\\GymBooking\\1. Source\\1. Code\\3. DAL\\GymBooking.DAL\\GymBooking.DAL\\GymBooking.DAL.csproj",
         "packagesPath": "C:\\Users\\msvn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\msvn\\source\\repos\\GymBooking\\1. Source\\1. Code\\3. DAL\\GymBooking.DAL\\GymBooking.Data\\obj\\",
+        "outputPath": "C:\\Users\\msvn\\source\\repos\\GymBooking\\1. Source\\1. Code\\3. DAL\\GymBooking.DAL\\GymBooking.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -45,6 +45,82 @@
       "frameworks": {
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\msvn\\source\\repos\\GymBooking\\1. Source\\1. Code\\3. DAL\\GymBooking.DAL\\GymBooking.Data\\GymBooking.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\msvn\\source\\repos\\GymBooking\\1. Source\\1. Code\\3. DAL\\GymBooking.DAL\\GymBooking.Data\\GymBooking.Data.csproj",
+        "projectName": "GymBooking.Data",
+        "projectPath": "C:\\Users\\msvn\\source\\repos\\GymBooking\\1. Source\\1. Code\\3. DAL\\GymBooking.DAL\\GymBooking.Data\\GymBooking.Data.csproj",
+        "packagesPath": "C:\\Users\\msvn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\msvn\\source\\repos\\GymBooking\\1. Source\\1. Code\\3. DAL\\GymBooking.DAL\\GymBooking.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\msvn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/meF6pdn3OmHcONfURardiYSA6AoYSl1KTiXMcxxACLJuplLVAB/api": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\msvn\\source\\repos\\GymBooking\\1. Source\\1. Code\\3. DAL\\GymBooking.DAL\\GymBooking.DAL\\GymBooking.DAL.csproj": {
+                "projectPath": "C:\\Users\\msvn\\source\\repos\\GymBooking\\1. Source\\1. Code\\3. DAL\\GymBooking.DAL\\GymBooking.DAL\\GymBooking.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
