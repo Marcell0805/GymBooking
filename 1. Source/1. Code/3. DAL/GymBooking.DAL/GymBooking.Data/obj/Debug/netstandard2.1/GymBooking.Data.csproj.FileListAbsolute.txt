@@ -7,3 +7,15 @@ C:\Users\msvn\source\repos\GymBooking\1. Source\1. Code\3. DAL\GymBooking.DAL\Gy
 C:\Users\msvn\source\repos\GymBooking\1. Source\1. Code\3. DAL\GymBooking.DAL\GymBooking.Data\bin\Debug\netstandard2.1\GymBooking.Data.pdb
 C:\Users\msvn\source\repos\GymBooking\1. Source\1. Code\3. DAL\GymBooking.DAL\GymBooking.Data\obj\Debug\netstandard2.1\GymBooking.Data.dll
 C:\Users\msvn\source\repos\GymBooking\1. Source\1. Code\3. DAL\GymBooking.DAL\GymBooking.Data\obj\Debug\netstandard2.1\GymBooking.Data.pdb
+C:\Users\Marcell\Source\Repos\GymBooking\1. Source\1. Code\3. DAL\GymBooking.DAL\GymBooking.Data\bin\Debug\netstandard2.1\GymBooking.Data.deps.json
+C:\Users\Marcell\Source\Repos\GymBooking\1. Source\1. Code\3. DAL\GymBooking.DAL\GymBooking.Data\bin\Debug\netstandard2.1\GymBooking.Data.dll
+C:\Users\Marcell\Source\Repos\GymBooking\1. Source\1. Code\3. DAL\GymBooking.DAL\GymBooking.Data\bin\Debug\netstandard2.1\GymBooking.Data.pdb
+C:\Users\Marcell\Source\Repos\GymBooking\1. Source\1. Code\3. DAL\GymBooking.DAL\GymBooking.Data\bin\Debug\netstandard2.1\GymBooking.DAL.dll
+C:\Users\Marcell\Source\Repos\GymBooking\1. Source\1. Code\3. DAL\GymBooking.DAL\GymBooking.Data\bin\Debug\netstandard2.1\GymBooking.DAL.pdb
+C:\Users\Marcell\Source\Repos\GymBooking\1. Source\1. Code\3. DAL\GymBooking.DAL\GymBooking.Data\obj\Debug\netstandard2.1\GymBooking.Data.csprojAssemblyReference.cache
+C:\Users\Marcell\Source\Repos\GymBooking\1. Source\1. Code\3. DAL\GymBooking.DAL\GymBooking.Data\obj\Debug\netstandard2.1\GymBooking.Data.AssemblyInfoInputs.cache
+C:\Users\Marcell\Source\Repos\GymBooking\1. Source\1. Code\3. DAL\GymBooking.DAL\GymBooking.Data\obj\Debug\netstandard2.1\GymBooking.Data.AssemblyInfo.cs
+C:\Users\Marcell\Source\Repos\GymBooking\1. Source\1. Code\3. DAL\GymBooking.DAL\GymBooking.Data\obj\Debug\netstandard2.1\GymBooking.Data.csproj.CoreCompileInputs.cache
+C:\Users\Marcell\Source\Repos\GymBooking\1. Source\1. Code\3. DAL\GymBooking.DAL\GymBooking.Data\obj\Debug\netstandard2.1\GymBooking.Data.csproj.CopyComplete
+C:\Users\Marcell\Source\Repos\GymBooking\1. Source\1. Code\3. DAL\GymBooking.DAL\GymBooking.Data\obj\Debug\netstandard2.1\GymBooking.Data.dll
+C:\Users\Marcell\Source\Repos\GymBooking\1. Source\1. Code\3. DAL\GymBooking.DAL\GymBooking.Data\obj\Debug\netstandard2.1\GymBooking.Data.pdb

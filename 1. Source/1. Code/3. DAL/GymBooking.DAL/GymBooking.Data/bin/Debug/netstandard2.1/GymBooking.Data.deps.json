@@ -9,6 +9,7 @@
     ".NETStandard,Version=v2.1/": {
       "GymBooking.Data/1.0.0": {
         "dependencies": {
+          "GymBooking.DAL": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.4"
         },
         "runtime": {
@@ -1499,6 +1500,14 @@
             "fileVersion": "4.6.24705.1"
           }
         }
+      },
+      "GymBooking.DAL/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.4"
+        },
+        "runtime": {
+          "GymBooking.DAL.dll": {}
+        }
       }
     }
   },
@@ -2375,6 +2384,11 @@
       "sha512": "sha512-MYoTCP7EZ98RrANESW05J5ZwskKDoN0AuZ06ZflnowE50LTpbR5yRg3tHckTVm5j/m47stuGgCrCHWePyHS70Q==",
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    },
+    "GymBooking.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

@@ -8,25 +8,23 @@
     ".NETStandard,Version=v2.1": []
   },
   "packageFolders": {
-    "C:\\Users\\msvn\\.nuget\\packages\\": {},
+    "C:\\Users\\Marcell\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\msvn\\source\\repos\\GymBooking\\1. Source\\1. Code\\2. BLL\\GymBooking.BLL\\GymBooking.BLL.csproj",
+      "projectUniqueName": "C:\\Users\\Marcell\\Source\\Repos\\GymBooking\\1. Source\\1. Code\\2. BLL\\GymBooking.BLL\\GymBooking.BLL.csproj",
       "projectName": "GymBooking.BLL",
-      "projectPath": "C:\\Users\\msvn\\source\\repos\\GymBooking\\1. Source\\1. Code\\2. BLL\\GymBooking.BLL\\GymBooking.BLL.csproj",
-      "packagesPath": "C:\\Users\\msvn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\msvn\\source\\repos\\GymBooking\\1. Source\\1. Code\\2. BLL\\GymBooking.BLL\\obj\\",
+      "projectPath": "C:\\Users\\Marcell\\Source\\Repos\\GymBooking\\1. Source\\1. Code\\2. BLL\\GymBooking.BLL\\GymBooking.BLL.csproj",
+      "packagesPath": "C:\\Users\\Marcell\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Marcell\\Source\\Repos\\GymBooking\\1. Source\\1. Code\\2. BLL\\GymBooking.BLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\msvn\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+        "C:\\Users\\Marcell\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -34,8 +32,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.devexpress.com/meF6pdn3OmHcONfURardiYSA6AoYSl1KTiXMcxxACLJuplLVAB/api": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.1": {
@@ -67,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
       }
     }
   }

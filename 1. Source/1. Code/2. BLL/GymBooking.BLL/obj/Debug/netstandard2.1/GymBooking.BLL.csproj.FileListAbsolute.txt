@@ -7,3 +7,11 @@ C:\Users\msvn\source\repos\GymBooking\1. Source\1. Code\2. BLL\GymBooking.BLL\ob
 C:\Users\msvn\source\repos\GymBooking\1. Source\1. Code\2. BLL\GymBooking.BLL\obj\Debug\netstandard2.1\GymBooking.BLL.csproj.CoreCompileInputs.cache
 C:\Users\msvn\source\repos\GymBooking\1. Source\1. Code\2. BLL\GymBooking.BLL\obj\Debug\netstandard2.1\GymBooking.BLL.dll
 C:\Users\msvn\source\repos\GymBooking\1. Source\1. Code\2. BLL\GymBooking.BLL\obj\Debug\netstandard2.1\GymBooking.BLL.pdb
+C:\Users\Marcell\Source\Repos\GymBooking\1. Source\1. Code\2. BLL\GymBooking.BLL\bin\Debug\netstandard2.1\GymBooking.BLL.deps.json
+C:\Users\Marcell\Source\Repos\GymBooking\1. Source\1. Code\2. BLL\GymBooking.BLL\bin\Debug\netstandard2.1\GymBooking.BLL.dll
+C:\Users\Marcell\Source\Repos\GymBooking\1. Source\1. Code\2. BLL\GymBooking.BLL\bin\Debug\netstandard2.1\GymBooking.BLL.pdb
+C:\Users\Marcell\Source\Repos\GymBooking\1. Source\1. Code\2. BLL\GymBooking.BLL\obj\Debug\netstandard2.1\GymBooking.BLL.AssemblyInfoInputs.cache
+C:\Users\Marcell\Source\Repos\GymBooking\1. Source\1. Code\2. BLL\GymBooking.BLL\obj\Debug\netstandard2.1\GymBooking.BLL.AssemblyInfo.cs
+C:\Users\Marcell\Source\Repos\GymBooking\1. Source\1. Code\2. BLL\GymBooking.BLL\obj\Debug\netstandard2.1\GymBooking.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Marcell\Source\Repos\GymBooking\1. Source\1. Code\2. BLL\GymBooking.BLL\obj\Debug\netstandard2.1\GymBooking.BLL.dll
+C:\Users\Marcell\Source\Repos\GymBooking\1. Source\1. Code\2. BLL\GymBooking.BLL\obj\Debug\netstandard2.1\GymBooking.BLL.pdb
